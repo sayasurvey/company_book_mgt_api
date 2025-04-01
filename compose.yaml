@@ -27,4 +27,4 @@ services:
       - ./migrations:/docker-entrypoint-initdb.d
 
 volumes:
-  mysql-data: 
+  mysql-data:
